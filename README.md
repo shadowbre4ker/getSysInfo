@@ -1,1 +1,2 @@
 # getSysInfo
+Windows stuffs
